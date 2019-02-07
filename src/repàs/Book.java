@@ -38,7 +38,7 @@ public class Book {
         this.title = newTitle;
 
         System.out.println("---------------------");
-        System.out.println("You changed the name " + this.title + " to " + newTitle);
+        System.out.println("Canvia el nom" + this.title + " to " + newTitle);
         System.out.println("---------------------");
         System.out.println();
     }
